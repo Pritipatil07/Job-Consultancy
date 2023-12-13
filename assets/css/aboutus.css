@@ -1,0 +1,16 @@
+.card-body{
+    background-color: rgb(247, 243, 243);
+    cursor:pointer;
+  transition: ease 1s;
+  -webkit-transition: ease 1s;
+}
+
+.card-body:hover{
+    transform: scale(1.02);
+    box-shadow: 10px 10px 15px rgba(5, 5, 5, 0.3);
+  }
+
+hr.aboutus{
+    width: 200px;
+    border: 0.5px solid rgb(179, 177, 177);
+}
